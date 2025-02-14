@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a4ffc283b5d0d829",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b884b6f93bca2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb2c8f316c6ae12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Software/System Design/Twitter/Drawing 2025-02-14 11.44.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-14 11.44.43.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f6229bd6c44a5cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "db1072196d671571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c07390309d8262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14dbe9f40767a228",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cefe3a14e0877283",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "642599a2e0098b9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d345067abffcb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8637d0d8caad622",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books note/Learnin Go/01.Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01.Intro"
+            }
+          },
+          {
+            "id": "b526d0b53a4f0f23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/Joe_Celko's_SQL_for_Smarties_Advanced_SQL_Programming_5th.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Joe_Celko's_SQL_for_Smarties_Advanced_SQL_Programming_5th"
+            }
+          },
+          {
+            "id": "9e18cd0f609e3b3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cc1f7678b409a08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Software/Database/How db stores table and indexes?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How db stores table and indexes?"
+            }
+          },
+          {
+            "id": "0de02df20eed60f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8cb2c8f316c6ae12",
+  "lastOpenFiles": [
+    "Notes/Software/System Design/Twitter/Drawing 2025-02-14 11.44.43.excalidraw.md",
+    "Notes/Software/System Design/Data Consistency.md",
+    "Notes/Software/System Design/Twitter",
+    "Notes/Software/System Design/Untitled.md",
+    "Notes/Software/Database/CAP.md",
+    "Notes/Software/Database/Replica.md",
+    "Notes/Software/Database/Tips.md",
+    "Notes/Software/Database/Index.md",
+    "Notes/Software/Database/Isolation Level.md",
+    "Notes/Software/System Design/Consistent Hashing.md",
+    "Notes/Software/Database/Shard.md",
+    "Notes/Software/Database/Partitioning.md",
+    "Notes/Software/System Design/Rate limiter and throtle.md",
+    "Notes/Software/System Design/Monitoring and logging.md",
+    "Notes/Software/System Design/Log Rotation.md",
+    "Notes/Software/System Design/Load Balance.md",
+    "Notes/Software/System Design/DB Optimization.md",
+    "Notes/Software/System Design/Caching.md",
+    "Book/SQL for smarties.md",
+    "Notes/General/Roadmap.md",
+    "Notes/Software/General/Algorithems/Twitter Snowflake.md",
+    "Notes/Software/General/Algorithems/B+Tree.md",
+    "Notes/Software/General/Algorithems/Lottery algorithm.md",
+    "Notes/Software/General/Algorithems/B-Tree.md",
+    "Ideas/ideas.md",
+    "Excalidraw/Drawing 2025-01-31 18.05.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-27 19.20.08.excalidraw.md",
+    "assets/B+tree.png",
+    "assets/btree-values.png",
+    "assets/b-tree-binary-tree.png",
+    "assets/b-tree-binary-tree.png.crdownload",
+    "Notes/General",
+    "assets/deadlock.jpeg",
+    "deadlock.jpeg",
+    "deadlock.jpeg.crdownload",
+    "assets/Joe_Celko's_SQL_for_Smarties_Advanced_SQL_Programming_5th.pdf",
+    "Book",
+    "Notes/Software/General/Algorithems",
+    "Notes/Software/System Design",
+    "Notes/Software/Kuber",
+    "Notes/Software/Docker",
+    "assets/mastering_go.jpg",
+    "Untitled.canvas",
+    "Learnin Go/Untitled.canvas",
+    "assets/learning-go.jpg",
+    "91yMrjrKOmL._SY466_.jpg",
+    "Untitled 1.canvas"
+  ]
+}

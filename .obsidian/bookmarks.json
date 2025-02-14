@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1738334141562,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1738334160196,
+          "path": "Reading List"
+        },
+        {
+          "type": "folder",
+          "ctime": 1738334165861,
+          "path": "Ideas"
+        }
+      ],
+      "title": "Bookmarks"
+    }
+  ]
+}
